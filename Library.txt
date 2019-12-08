@@ -1,0 +1,10 @@
+	
+river   강
+lamp   조명
+asstistant   조교님
+love   사랑
+sun   해
+blanket   요
+handsome	잘생김
+cute	귀엽다
+best	최고
